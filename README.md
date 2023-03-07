@@ -13,7 +13,7 @@
 - Spring Data JPA
 - H2 Database
 
-- JWT:
+- JWT 👇
 ```
 <dependency>
 	<groupId>io.jsonwebtoken</groupId>
@@ -26,12 +26,13 @@
 
 <img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/spring.io.png"/>
 
+<br>
 
 ### ✅ Tela de Login do Spring Security:
 
 <img width="500px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/tela.security.png"/>
 
-
+<br>
 
 ### ⚙ Configurando o arquivo ```application.properties``` :
 
@@ -49,7 +50,7 @@ spring.jpa.show-sql:true
 spring.h2.console.enabled=true
 ```
 
-### ❌ Utilizando o Posman:
+## ❌ Utilizando o Posman:
 
 <br>
 
@@ -57,26 +58,37 @@ spring.h2.console.enabled=true
 
 <img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/cadastrarUsuario.png"/>
 
+<br>
+
 - ## Efetuar Login:
 
 <img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/efetuarLogin.png"/>
 
-- ## Acesso autorizado - Rota Users - via Token:
-
-<img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/authorizedUser.png"/>
+<br>
 
 - ## Acesso autorizado - Rota Users - via Token:
 
 <img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/authorizedUser.png"/>
+
+<br>
+
+- ## Acesso autorizado - Rota Users - via Token:
+
+<img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/authorizedUser.png"/>
+
+<br>
 
 - ## Acesso autorizado - Rota Managers - via Token/Headers:
 
 <img width="900px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/authorizedManagerHeader.png"/>
 
+<br>
+
 - ## Debugger do Token gerado no [JWT.io](https://jwt.io/):
 
 <img width="800px" src="https://github.com/lucarauj/API-REST-com-spring-security-JWT-Dio/blob/main/image/debuggerJwt.png"/>
 
+<br>
 
 
 ### 📝 Anotações:
@@ -103,6 +115,8 @@ spring.h2.console.enabled=true
 - @Service
 - @Table
 
+<br>
+
 ### 🚀 Principais tecnologias utilizadas no projeto:
 
 <div style="display: inline_block"><br>
@@ -114,20 +128,10 @@ spring.h2.console.enabled=true
 <img align="center" alt="Lucarauj-H2" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/H2.png">
 </div>
 
+<br>
 
 ## Autor
 
 #### Lucas Araujo
 
 <a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
-
-
-
-
-
-
-
-
-
-
-
